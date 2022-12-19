@@ -8,4 +8,4 @@ Clean blanks.R replaces blank cells with NA and then saves the clean data as dad
 
 RepresentatividadeAmostra.R performs a one-sample Chi-Square test to see if sample proportions are not significantly different than population proportions for select demographics.
 
-Scripts Class.R, DenomPolitica.R, Idade.R, Orisex.R, Raca.R, Religiao.R, Sexo.R can be run in any order and perform Fisher's exact test to see if the categories in each of these demographic variables are independent of seven different topics of expression.
+Scripts Class.R, DenomPolitica.R, Idade.R, Orisex.R, Raca.R, Religiao.R, Sexo.R can be run in any order and perform Fisher's exact test to see if the categories in each of these demographic variables are independent of reluctance of expression in seven different topics: politics, race, sex, gender, religion, university administration and syllabus content.
